@@ -102850,6 +102850,17 @@
         "metaverse",
         "staking"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8U72UUryrh6xtHyAsHbyEvESj8X5ARQtNAu3XY7ZtkJd",
+      "symbol": "ZENY",
+      "name": "ZenCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.https://raw.githubusercontent.com/badeafrost/crypto/main/zeny%20token%20logo.png.com/theNetworkChuck/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
